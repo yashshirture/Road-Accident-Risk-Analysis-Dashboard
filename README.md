@@ -3,14 +3,12 @@
 ## 📌 Project Overview
 This project analyzes road accident data to identify high-risk factors, accident trends, and casualty patterns using an interactive Excel dashboard.
 
-## 🔍 Analytical Insights & Value
-
-- Total accidents and total casualties overview
-- Fatal, serious, and slight casualty distribution
-- Accident trends by month and year
-- Casualties by road type and surface condition
-- Urban vs rural accident comparison
-- Impact of lighting and speed risk factors
+## 🚨 Risk Drivers & Safety Patterns
+- Serious and fatal casualties are disproportionately higher on single carriageways.
+- Urban areas account for the majority of accidents, driven by higher traffic density.
+- Wet road surfaces significantly increase accident severity compared to dry conditions.
+- Poor lighting conditions show elevated fatality rates despite lower accident volumes.
+- Accident frequency peaks during specific months, indicating seasonal risk patterns.
 
 ## 🛠 Tools Used
 - Microsoft Excel – Interactive dashboard & analysis
@@ -21,7 +19,7 @@ This project analyzes road accident data to identify high-risk factors, accident
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
 
-## 🚦 Practical Insights
+## 🔍 Analytical Value
 - Helps identify high-risk road conditions
 - Supports traffic safety and prevention strategies
 - Enables da-backed policy recommendations
