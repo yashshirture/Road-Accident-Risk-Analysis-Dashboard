@@ -27,5 +27,5 @@ This project analyzes road accident data to identify high-risk factors, accident
 
 ## 👤 Author
 Yash Shirture  
-Data Analyst
+Data Analyst | Excel • SQL • Power BI
 
